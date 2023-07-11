@@ -1,0 +1,17 @@
+CryptoDevsNFT deployed to: 0x4d09e000d983e7d8A005430FcbF794418DD71B69
+FakeNFTMarketplace deployed to: 0x0641d61978D7336854ab4B8C2E0CB8B988B79f10
+CryptoDevsDAO deployed to: 0xEF4E40D1D27Ff62AaA91AF44914Edb8Be0eeC3B0
+The contract 0x4d09e000d983e7d8A005430FcbF794418DD71B69 has already been verified.
+https://sepolia.etherscan.io/address/0x4d09e000d983e7d8A005430FcbF794418DD71B69#code
+Successfully submitted source code for contract
+contracts/FakeNFTMarketplace.sol:FakeNFTMarketplace at 0x0641d61978D7336854ab4B8C2E0CB8B988B79f10
+for verification on the block explorer. Waiting for verification result...
+
+Successfully verified contract FakeNFTMarketplace on the block explorer.
+https://sepolia.etherscan.io/address/0x0641d61978D7336854ab4B8C2E0CB8B988B79f10#code
+Successfully submitted source code for contract
+contracts/CryptoDevsDAO.sol:CryptoDevsDAO at 0xEF4E40D1D27Ff62AaA91AF44914Edb8Be0eeC3B0
+for verification on the block explorer. Waiting for verification result...
+
+Successfully verified contract CryptoDevsDAO on the block explorer.
+https://sepolia.etherscan.io/address/0xEF4E40D1D27Ff62AaA91AF44914Edb8Be0eeC3B0#code
